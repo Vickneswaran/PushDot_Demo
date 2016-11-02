@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<gpx
+xmlns="http://www.topografix.com/GPX/1/1"
+xmlns:gpxx = "http://www.garmin.com/xmlschemas/GpxExtensions/v3"
+xmlns:xsi = "http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd
+http://www.garmin.com/xmlschemas/GpxExtensions/v3
+http://www8.garmin.com/xmlschemas/GpxExtensions/v3/GpxExtensionsv3.xsd"
+version="1.1"
+creator="gpx-poi.com">
+   <wpt lat="8.503967" lon="76.951053">
+      <time>2016-07-28T09:05:25Z</time>
+      <extensions>
+         <gpxx:WaypointExtension>
+            <gpxx:Address>
+               <gpxx:StreetAddress>Doha</gpxx:StreetAddress>
+               <gpxx:City>Doha</gpxx:City>
+               <gpxx:State>Doha</gpxx:State>
+               <gpxx:Country>QA</gpxx:Country>
+            </gpxx:Address>
+         </gpxx:WaypointExtension>
+      </extensions>
+   </wpt>
+</gpx>

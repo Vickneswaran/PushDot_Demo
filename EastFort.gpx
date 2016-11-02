@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<gpx
+xmlns="http://www.topografix.com/GPX/1/1"
+xmlns:gpxx = "http://www.garmin.com/xmlschemas/GpxExtensions/v3"
+xmlns:xsi = "http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd
+http://www.garmin.com/xmlschemas/GpxExtensions/v3
+http://www8.garmin.com/xmlschemas/GpxExtensions/v3/GpxExtensionsv3.xsd"
+version="1.1"
+creator="gpx-poi.com">
+   <wpt lat="8.484528" lon="76.947742">
+      <time>2016-07-27T13:45:34Z</time>
+      <extensions>
+         <gpxx:WaypointExtension>
+            <gpxx:Address>
+               <gpxx:StreetAddress>sreekariyam</gpxx:StreetAddress>
+               <gpxx:City>Thiruvananthapuram</gpxx:City>
+               <gpxx:State>KL</gpxx:State>
+               <gpxx:Country>IN</gpxx:Country>
+               <gpxx:PostalCode>695017</gpxx:PostalCode>
+            </gpxx:Address>
+         </gpxx:WaypointExtension>
+      </extensions>
+   </wpt>
+</gpx>
