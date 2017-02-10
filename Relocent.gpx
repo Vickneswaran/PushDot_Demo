@@ -17,6 +17,7 @@ creator="gpx-poi.com">
                <gpxx:City>Jidhafs</gpxx:City>
                <gpxx:State>Capital Governorate</gpxx:State>
                <gpxx:Country>BH</gpxx:Country>
+               
             </gpxx:Address>
          </gpxx:WaypointExtension>
       </extensions>
